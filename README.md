@@ -3,7 +3,7 @@
 A one-page, mobile-first website for a **fictional** barbershop in Mandaluyong.
 Second portfolio sample for a ₱7,500 Starter Business Website package.
 
-**Live demo:** _add Netlify URL_
+**Live demo:** https://barbershop-website-gkij.netlify.app
 
 ## Features
 - Responsive layout (phone, tablet, desktop)
